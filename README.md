@@ -1,4 +1,6 @@
 # Emotion Based Feedback System
+
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 # AI Powered Emotional Review System for Authentic User Feedback in Retail and E-Commerce
 Developed an **AI-powered system to generate real-time  emotional reviews** by analyzing user sentiment, addressing the issue of fake feedback in retail and e-commerce. The  system improves user engagement by ensuring authentic, emotion-driven reviews, helping businesses better understand  customer experiences and refine their services.
 
