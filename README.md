@@ -125,3 +125,10 @@ Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
 **Last updated:** 2026-07-19
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
