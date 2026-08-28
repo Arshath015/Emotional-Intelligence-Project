@@ -124,7 +124,7 @@ Feel free to contribute to this project by submitting issues or pull requests.
 
 
 ---
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-28
 
 
 ## Requirements
